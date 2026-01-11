@@ -1,4 +1,4 @@
-# Medical Image Analysis System
+# Medical Image Analysis System @
 
 A web-based multi-agent medical image analysis platform using FastAPI and the MedGemma-4B-IT model. The system provides AI-powered diagnostic analysis for pathology, mammography, brain MRI, and skin cancer detection.
 
@@ -123,3 +123,4 @@ The application uses the following model settings:
 - First run loads the model (takes longer)
 - CPU processing is slower than GPU
 - Larger images take longer to process
+
